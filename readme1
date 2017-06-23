@@ -1,2 +1,6 @@
-this is a test
-i love write!
+作者：吴辉斌
+链接：https://www.zhihu.com/question/22914651/answer/25089054
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+GitHub上有很多不错的iOS开源项目，个人认为不错的，有这么几个：1. ReactiveCocoa：ReactiveCocoa/ReactiveCocoa · GitHub：GitHub自家的函数式响应式编程范式的Objective-C实现，名字听着很高大上，学习曲线确实也比较陡，但是绝对会改变你对iOS编程的认知，首推之。2. Mantle：Mantle/Mantle · GitHub：又是GitHub自家的产物，轻量级建模的首选，也可以很好的配合CoreData工作。3. AFNetworking:AFNetworking/AFNetworking · GitHub:iOS7之前，苹果自带的网络库有多难用！matt大神的AFNetworking绝对可以解放你。使用苹果的NSURLRequest及iOS7的NSURLSession，清晰的架构，足够的文档，可以认为是第三方开源库的楷模了。4. BlocksKit: pandamonia/BlocksKit 路 GitHub本人相当偏爱Functional Programming，Objective-C中的block绝对满足我的口味。但想用好block也不是很容易，如果对block有爱，就请使用这个库吧。5. Nimbus：jverkoey/nimbus · GitHub第一次关注nimbus是因为Facebook的Three20开源库。可惜Three20库已死，主要作者跳出来，写了nimbus。6. pop: facebook/pop · GitHubfacebook出品的paper，动画效果太好了，赶超apple的原生app一大截。pop就是paper的动画库！7. GPUImage: BradLarson/GPUImage ยท GitHubiOS7出来时，很多好看的效果，其实都是对图像的各种处理（比如模糊效果）。图像处理看来以后也是iOS开发的必备技能之一了。而GPUImage，就是能快速处理各种图像效果的利器！＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝好吧，我承认第一次知乎的回答有点惊喜，没想到这么多人点赞 ^_^大部分iOS的第三方库都是在苹果的基础框架之上的产物，所以基础很重要，有时间看看WWDC的历年视频，是不错的选择。最近还是在深入学习ReactiveCocoa，看ReactiveCocoa的源码。对响应式编程还是有很多期待的，有时间也要重温函数式编程（比如Haskell），或者把响应式编程的公开课（Coursera.org）看完。编程范式的选择可以说是相当重要的。未来是多核+并发的时代，函数式编程无疑是更好的选择。iOS的UI也很重要，但是如果理解apple的CoreAnimation及CoreGraphics框架，大部分UI基本是没问题的。当前，iOS7的各种炫酷效果，也需要对图像的处理有一定理解。说到图形学，OpenCV是一个不错的选择，而OpenGL也是另一个不错的方向（推荐的公开课：Interactive 3D Graphics Course With Three.js & WebGL）。当然最重要的，还是计算机的各种基础知识了吧，知其然，知其所以然，才是正道～
